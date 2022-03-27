@@ -1,0 +1,64 @@
+.b1{
+    margin: 30px;
+    padding: 1;
+    font-family:monospace;
+    font-size: 70px;
+    font-weight: 1500;
+    line-height: 1.5;
+    text-align: center;
+    color: greenyellow;
+    font-family: cursive;
+    text-shadow: 2px 3px seagreen;
+}
+.b2{
+    margin: 1;
+    padding: 10px;
+    font-family: poopins;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 1.5;
+    text-align: center;
+    background-image: url(p111.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.b3{
+    margin: 10px;
+    padding: 10px;
+    font-family: poopins;
+    font-weight: 1000;
+    line-height: 1.5;
+}
+.b4{
+    margin: 10px;
+    padding: 10px;
+    font-family: poopins;
+    font-weight: 1000;
+    line-height: 1.5;
+    color: rgb(223, 233, 241);
+    text-decoration: none;
+}
+.b4:hover {
+    color: limegreen;
+}
+.b5{
+    margin: 10px;
+    padding: 10px;
+    font-family: poopins;
+    font-weight: 1000;
+    line-height: 1.5;
+    color:rgb(223, 233, 241);
+    text-decoration: none;
+}
+.b5:hover {
+    color: limegreen;
+}
+.b6{
+    border-radius: 20px;
+    opacity: 0.6;
+    height: 300px;
+    width: auto;
+    padding:8px;
+}

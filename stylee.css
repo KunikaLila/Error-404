@@ -1,0 +1,23 @@
+*{
+    background-repeat:no repeat;
+    background-color:#FFF0F5
+}
+p{
+    color:black;
+    font-weight: bold;
+}
+body{
+    padding: 25px;
+  }
+input[type="submit"]{
+   width:50%;
+   color: white;
+   background-color: black;
+   padding: 15px;   
+   margin: 10px 200px;
+}
+input,textarea{
+    width: 100%;
+    background-color: white;
+    border:2px solid black;
+}
